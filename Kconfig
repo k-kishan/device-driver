@@ -1,0 +1,3 @@
+config HELLO_WORLD_DD
+	tristate "hello world"
+	default m
